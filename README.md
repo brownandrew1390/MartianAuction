@@ -6,4 +6,4 @@ This application is an online auction system for the Martian Land Foundation to 
 
 ### Demo App
 
-Click [here](frontend/index.html) to launch the MartianMarket application.
+Click [here](https://brownandrew1390.github.io/MartianAuction/) to launch the MartianMarket application.
